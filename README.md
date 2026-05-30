@@ -35,6 +35,11 @@ ImageResizer/
 ├── img/
 │   └── icons8-resize-50.png
 │
+├── printscreen/
+│   ├── InitialWindow.png
+│   ├── ResizeWindow.png
+│   └── SuccessWindow.png
+│
 └── README.md
 ```
 
@@ -98,3 +103,31 @@ The interface dynamically changes during execution:
 * Buttons change position and style
 * Input fields appear for resizing
 * The interface resets after saving the image
+
+---
+
+## Screenshots
+<p align="center">
+    <em>The application's initial window</em>
+</p>
+<p align="center">
+    <img src="printscreen/InitialWindow.png" alt="The application's initial window">
+</p>
+
+<br><br>
+
+<p align="center">
+    <em>The application's resize window</em>
+</p>
+<p align="center">
+    <img src="printscreen/ResizeWindow.png" alt="The application's resize window">
+</p>
+
+<br><br>
+
+<p align="center">
+    <em>The application's success window</em>
+</p>
+<p align="center">
+    <img src="printscreen/SuccessWindow.png" alt="The application's success window">
+</p>
